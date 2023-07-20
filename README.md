@@ -9,7 +9,7 @@ This project is all about bookhub where you can see free pdf books and download 
 
 |  Splash Screen                                              |                                                   Login                               
 |:----------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/book_hub/assets/57385799/b5600345-33a7-49fa-965e-34efc68f9661.png">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/Sweetyrawat-star/book_hub/assets/57385799/864f1187-7a08-48d4-9778-781856b38559.png">|
+| <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/book_hub/assets/57385799/b5600345-33a7-49fa-965e-34efc68f9661.png">|<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/Sweetyrawat-star/book_hub/assets/57385799/fce2a499-5fee-49f7-9d34-060e5e01828c.png">|
 
 
 | Sign Up                                          |                                                   Login & SignUp Authentication                               
